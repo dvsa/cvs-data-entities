@@ -1,0 +1,79 @@
+{
+    "timeStamp": "24/03/2017 10:43:22",
+    "techRecord": {
+        "bodyType": "Box",
+        "hgvbasNtaNum": "0000451078",
+        "hgvvarVarNo": "1",
+        "roadFriendlySuspMarker": "No",
+        "speedLimiterExempt": "No",
+        "tachoExemptMarker": "No",
+        "statusCode": "Current",
+        "adrMarker": "No",
+        "alterationMarker": "Yes",
+        "dgvMarker": "No",
+        "tirMarker": "No",
+        "length": 0,
+        "width": 0,
+        "closelySpacedAxleDistance": 0,
+        "outerAxleSpanDrawbar": 0,
+        "tyreUseCode": "2B",
+        "grossDesignWeight": 7500,
+        "grossEecWeight": 0,
+        "grossGbWeight": 7500,
+        "trainDesignWeight": 11000,
+        "trainEecWeight": 0,
+        "trainGbWeight": 11000,
+        "maxTrainDesignWeight": 0,
+        "maxTrainEecWeight": 0,
+        "maxTrainGbWeight": 0,
+        "outerAxleSpanSemi": 0,
+        "ccToFrontAxleMinLength": 0,
+        "ccToFrontAxleMaxLength": 0,
+        "ccToFrontVehMinLength": 0,
+        "ccToFrontVehMaxLength": 0,
+        "sequenceNumber": 3,
+        "euroStandard": "ST",
+        "conversionRefNumber": "MANNA 2075",
+        "trailerCouplingType": "No",
+        "remarks": "0",
+        "dtpNumber": "5452C",
+        "baseFunctionCode": " ",
+        "versionNumber": "0",
+        "axles": [
+            {
+                "axleNumber": 1,
+                "weights": {
+                    "gbWeight": 2900,
+                    "eecWeight": 0,
+                    "designWeight": 2900
+                },
+                "tyres": {
+                    "tyreCode": 194,
+                    "tyreSize": "235/75-17.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 128,
+                    "sLoadIndex": 130,
+                    "loadIndex": 130
+                }
+            },
+            {
+                "axleNumber": 2,
+                "weights": {
+                    "gbWeight": 5200,
+                    "eecWeight": 0,
+                    "designWeight": 5200
+                },
+                "tyres": {
+                    "tyreCode": 194,
+                    "tyreSize": "235/75-17.5",
+                    "plyRating": null,
+                    "fitmentCode": "D",
+                    "dLoadIndex": 128,
+                    "sLoadIndex": 130,
+                    "loadIndex": 128
+                }
+            }
+        ]
+    }
+}

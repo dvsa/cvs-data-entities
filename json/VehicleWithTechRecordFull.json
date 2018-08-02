@@ -1,0 +1,185 @@
+{
+    "timeStamp": "24/03/2017 10:01:52",
+    "vehicle": {
+        "systemNumber": 434568,
+        "vehicleClass": "V",
+        "vehicleType": "HGV",
+        "chassisType": "Rigid",
+        "vin": "ABC123",
+        "manufactureDate": "01/03/1994",
+        "yearOfManufacture": 1994,
+        "testCertificateExpiryDate": "31/10/2017",
+        "vehicleIdentifier": "ABC123",
+        "previousRegmark": "ABC123",
+        "lastPresenterName": "Lorem ipsum dolor sit amet",
+        "lastPresenterAddress1": "Lorem ipsum dolor sit amet",
+        "lastPresenterAddress2": "Lorem ipsum dolor sit amet",
+        "lastPresenterAddress3": null,
+        "lastPresenterAddress4": null,
+        "lastPresenterPosttown": "Lorem ipsum dolor sit amet",
+        "lastPresenterPostcode": "ABC123",
+        "lastPresenterPhoneNumber": "01234 123456",
+        "registrationDate": "09/02/1996",
+        "numberOfAxles": 2,
+        "make": "Make",
+        "model": "Model",
+        "intelligenceMarker": "N",
+        "intelligenceExpiryDate": null,
+        "abscondedImmobilisationDate": null,
+        "lastUpdatedDate": "03/10/2016"
+    },
+    "techRecord": {
+        "coifSequenceNumber": 1,
+        "coifDate": "27/08/2009",
+        "bodyModel": "Lorem ipsum dolor sit amet",
+        "coifSerialNumber": 202517,
+        "coifCertifyName": "Lorem ipsum dolor sit amet",
+        "psvmmDtpNumber": "009438",
+        "bodyMake": "Lorem ipsum dolor sit amet",
+        "bodyType": "Single Decker",
+        "chassisMake": "Lorem ipsum dolor sit amet",
+        "chassisModel": "ACB1",
+        "pchsbd": 1,
+        "brakeCode": 202,
+        "grossDesignWeight": 19000,
+        "grossGbWeight": 18000,
+        "grossKerbWeight": 14020,
+        "grossLadenWeight": 17845,
+        "retarderBrake1": "Hydraulic",
+        "retarderBrake2": "Exhaust",
+        "seatsLowerDeck": 49,
+        "seatsUpperDeck": 0,
+        "sequenceNumber": 2,
+        "speedLimiterMarker": "Yes",
+        "speedRestriction": 62,
+        "standingCapacity": 0,
+        "statusCode": "Confirmed",
+        "tachoExemptMarker": "No",
+        "unladenWeight": 0,
+        "dispensations": null,
+        "remarks": null,
+        "serviceA": 8030,
+        "secA": 4015,
+        "parkingA": 2855,
+        "serviceB": 7010,
+        "secB": 3505,
+        "parkingB": 2243,
+        "brakeData": {
+            "secondary": "Lorem ipsum dolor sit amet",
+            "parking": "Lorem ipsum dolor sit amet",
+            "brakeDataCode": "178Lorem ipsum dolor sit amet202",
+            "service": "Lorem ipsum dolor sit amet"
+        },
+        "axles": [
+            {
+                "axleNumber": 1,
+                "weights": {
+                    "gbWeight": 7500,
+                    "designWeight": 7500,
+                    "ladenWeight": 0,
+                    "kerbWeight": 0
+                },
+                "tyres": {
+                    "tyreCode": 428,
+                    "tyreSize": "315/80-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 150,
+                    "sLoadIndex": 156,
+                    "loadIndex": 156,
+                    "speedCatSymbol": "L"
+                }
+            },
+            {
+                "axleNumber": 2,
+                "weights": {
+                    "gbWeight": 11500,
+                    "designWeight": 12000,
+                    "ladenWeight": 0,
+                    "kerbWeight": 0
+                },
+                "tyres": {
+                    "tyreCode": 428,
+                    "tyreSize": "315/80-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "D",
+                    "dLoadIndex": 150,
+                    "sLoadIndex": 156,
+                    "loadIndex": 150,
+                    "speedCatSymbol": "L"
+                }
+            }
+        ]
+    },
+    "operator": [
+        {
+            "specifiedDate": "24/02/2014",
+            "operatorLicenceNumber": "Lorem ipsum dolor sit amet",
+            "operatorLicenceType": "Lorem ipsum dolor sit amet",
+            "operatorLicenceCategory": "Lorem ipsum dolor sit amet",
+            "operatorLicenceStatus": "Lorem ipsum dolor sit amet",
+            "operatorName": "Lorem ipsum dolor sit amet",
+            "operatorType": "Lorem ipsum dolor sit amet",
+            "ocrsNumericBand": "05",
+            "ocrsBand": "Lorem ipsum dolor sit amet"
+        }
+    ],
+    "testHistory": [
+        {
+            "reservationNumber": "12312311",
+            "location": "Lorem ipsum dolor sit amet",
+            "testDate": "14/10/2015",
+            "testType": "ANNUAL MV",
+            "vehicleIdentifierAtTest": "ABC123",
+            "operatorLicenceNumberAtTest": null,
+            "testResult": "Pass",
+            "testCertificateExpiryDateAtTest": "31/10/2016",
+            "numberOfDefectsAtTest": 0,
+            "numberofAdvisoryDefectsAtTest": 1
+        },
+        {
+            "reservationNumber": "123123123",
+            "location": "Lorem ipsum dolor sit amet",
+            "testDate": "03/10/2016",
+            "testType": "ANNUAL MV",
+            "vehicleIdentifierAtTest": "ABC123",
+            "operatorLicenceNumberAtTest": null,
+            "testResult": "Pass",
+            "testCertificateExpiryDateAtTest": "31/10/2017",
+            "numberOfDefectsAtTest": 0,
+            "numberofAdvisoryDefectsAtTest": 3
+        }
+    ],
+    "encounter": [
+        {
+            "encounterIdentifier": "123123123",
+            "operatorLicenceNumberAtEncounter": "ABC123",
+            "operatorLicenceNameAtEncounter": null,
+            "encounterType": "Unplanned",
+            "encounterLocation": "Lorem ipsum dolor sit amet",
+            "prohibitionNotice": "Y",
+            "prohibitionOutstanding": "N",
+            "encounterDate": "28/05/2014",
+            "numberOfDefects": 0,
+            "numberOfOffences": 2,
+            "numberOfMsiDefects": 0,
+            "numberOfMsiOffences": 0,
+            "numberOfCabotageOffences": 0
+        },
+        {
+            "encounterIdentifier": "12312312311",
+            "operatorLicenceNumberAtEncounter": "ABC123",
+            "operatorLicenceNameAtEncounter": null,
+            "encounterType": "Other Situation",
+            "encounterLocation": "Lorem ipsum dolor sit amet",
+            "prohibitionNotice": "N",
+            "prohibitionOutstanding": "N",
+            "encounterDate": "28/05/2014",
+            "numberOfDefects": 0,
+            "numberOfOffences": 0,
+            "numberOfMsiDefects": 0,
+            "numberOfMsiOffences": 0,
+            "numberOfCabotageOffences": 0
+        }
+    ]
+}

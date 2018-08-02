@@ -1,0 +1,94 @@
+<h1>{{title}}</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Data Set</th>
+            <th>Single Record Size (bytes)</th>
+            <th>No. of Records</th>
+            <th>Current (MB)</th>
+            <th>Projected Yearly Increase (%)</th>
+            <th>5 Year Projection (MB)</th>
+            <th>10 Year Projection (MB)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Vehicle Technical Record</td>
+            <td>{{vehicles.size}}</td>
+            <td>{{vehicles.recordCount}}</td>
+            <td>{{vehicles.currentValue}}</td>
+            <td>{{vehicles.yearOnYearIncreasePercentage}}</td>
+            <td>{{vehicles.fiveYearEstimateValue}}</td>
+            <td>{{vehicles.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>Test Types/Codes</td>
+            <td>{{testTypes.size}}</td>
+            <td>{{testTypes.recordCount}}</td>
+            <td>{{testTypes.currentValue}}</td>
+            <td>{{testTypes.yearOnYearIncreasePercentage}}</td>
+            <td>{{testTypes.fiveYearEstimateValue}}</td>
+            <td>{{testTypes.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>Defects</td>
+            <td>{{defects.size}}</td>
+            <td>{{defects.recordCount}}</td>
+            <td>{{defects.currentValue}}</td>
+            <td>{{defects.yearOnYearIncreasePercentage}}</td>
+            <td>{{defects.fiveYearEstimateValue}}</td>
+            <td>{{defects.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>ATF Details</td>
+            <td>{{atfDetails.size}}</td>
+            <td>{{atfDetails.recordCount}}</td>
+            <td>{{atfDetails.currentValue}}</td>
+            <td>{{atfDetails.yearOnYearIncreasePercentage}}</td>
+            <td>{{atfDetails.fiveYearEstimateValue}}</td>
+            <td>{{atfDetails.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>Test Capture Data</td>
+            <td>{{testCaptures.size}}</td>
+            <td>{{testCaptures.recordCount}}</td>
+            <td>{{testCaptures.currentValue}}</td>
+            <td>{{testCaptures.yearOnYearIncreasePercentage}}</td>
+            <td>{{testCaptures.fiveYearEstimateValue}}</td>
+            <td>{{testCaptures.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>Test Cancellation Reasons</td>
+            <td>{{testCancellations.size}}</td>
+            <td>{{testCancellations.recordCount}}</td>
+            <td>{{testCancellations.currentValue}}</td>
+            <td>{{testCancellations.yearOnYearIncreasePercentage}}</td>
+            <td>{{testCancellations.fiveYearEstimateValue}}</td>
+            <td>{{testCancellations.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td>Wait Time Reasons</td>
+            <td>{{waitTimes.size}}</td>
+            <td>{{waitTimes.recordCount}}</td>
+            <td>{{waitTimes.currentValue}}</td>
+            <td>{{waitTimes.yearOnYearIncreasePercentage}}</td>
+            <td>{{waitTimes.fiveYearEstimateValue}}</td>
+            <td>{{waitTimes.tenYearEstimateValue}}</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: right; font-weight: bold">Total Mb</td>
+            <td>{{currentMbTotal}}</td>
+            <td>&nbsp;</td>
+            <td>{{fiveYearProjectionMbTotal}}</td>
+            <td>{{tenYearProjectionMbTotal}}</td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align: right; font-weight: bold">Total Gb</td>
+            <td>{{currentGbTotal}}</td>
+            <td>&nbsp;</td>
+            <td>{{fiveYearProjectionGbTotal}}</td>
+            <td>{{tenYearProjectionGbTotal}}</td>
+        </tr>
+    </tbody>
+</table>

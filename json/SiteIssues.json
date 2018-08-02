@@ -1,0 +1,9 @@
+{
+    "id": "ABC123",
+    "siteId": "ABC123",
+    "VSAId": "ABCADFSDF",
+    "type": "PIT",
+    "severity": "DANGEROUS",
+    "vsaId": "ABC123",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing."
+}

@@ -1,0 +1,107 @@
+{
+    "id": "e0455ac0-0052-11e8-aad5-c3a7ee58fbc8",
+    "createDate": "01-01-2018",
+    "isAbandoned": false,
+    "isPassed": false,
+    "meterReading": 12345678,
+    "testType": "FULL TEST",
+    "vehicleId": "e0455ac0-0052-11e8-aad5-c3a7ee58fbc8",
+    "siteId": "ABC123",
+    "defects": [
+        {
+            "id": "HGV",
+            "number": 6,
+            "category1Id": 2123123,
+            "category1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "category2Id": 2123123,
+            "category2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "deficiencyCategory": "Dangerous",
+            "deficiencyId": "ABC123",
+            "deficiencySubId": "ABC123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+            "images": [
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736"
+            ]
+        },
+        {
+            "id": "HGV",
+            "number": 6,
+            "category1Id": 2123123,
+            "category1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "category2Id": 2123123,
+            "category2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "deficiencyCategory": "Dangerous",
+            "deficiencyId": "ABC123",
+            "deficiencySubId": "ABC123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+            "images": [
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736"
+            ]
+        },
+        {
+            "id": "HGV",
+            "number": 6,
+            "category1Id": 2123123,
+            "category1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "category2Id": 2123123,
+            "category2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "deficiencyCategory": "Dangerous",
+            "deficiencyId": "ABC123",
+            "deficiencySubId": "ABC123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+            "images": [
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736"
+            ]
+        },
+        {
+            "id": "HGV",
+            "number": 6,
+            "category1Id": 2123123,
+            "category1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "category2Id": 2123123,
+            "category2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "deficiencyCategory": "Dangerous",
+            "deficiencyId": "ABC123",
+            "deficiencySubId": "ABC123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+            "images": [
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736"
+            ]
+        },
+        {
+            "id": "HGV",
+            "number": 6,
+            "category1Id": 2123123,
+            "category1Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "category2Id": 2123123,
+            "category2Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+            "deficiencyCategory": "Dangerous",
+            "deficiencyId": "ABC123",
+            "deficiencySubId": "ABC123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+            "images": [
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736",
+                "0a1c28e9-6290-4436-9faf-dfa2d6bdb736"
+            ]
+        }
+    ]  
+}

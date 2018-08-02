@@ -1,0 +1,86 @@
+{
+    "timeStamp": "24/03/2017 10:44:01",
+    "techRecord": {
+        "coifSequenceNumber": 1,
+        "coifDate": "27/08/2009",
+        "bodyModel": "SIDERAL",
+        "coifSerialNumber": 202517,
+        "coifCertifyName": "DAVID COBLEY T/S 26",
+        "psvmmDtpNumber": "009438",
+        "bodyMake": "SUNSUNDEGUI",
+        "bodyType": "Single Decker",
+        "chassisMake": "VOLVO",
+        "chassisModel": "B12M",
+        "pchsbd": 1,
+        "brakeCode": 202,
+        "grossDesignWeight": 19000,
+        "grossGbWeight": 18000,
+        "grossKerbWeight": 14020,
+        "grossLadenWeight": 17845,
+        "retarderBrake1": "Hydraulic",
+        "retarderBrake2": "Exhaust",
+        "seatsLowerDeck": 49,
+        "seatsUpperDeck": 0,
+        "sequenceNumber": 2,
+        "speedLimiterMarker": "Yes",
+        "speedRestriction": 62,
+        "standingCapacity": 0,
+        "statusCode": "Confirmed",
+        "tachoExemptMarker": "No",
+        "unladenWeight": 0,
+        "dispensations": null,
+        "remarks": null,
+        "serviceA": 8030,
+        "secA": 4015,
+        "parkingA": 2855,
+        "serviceB": 7010,
+        "secB": 3505,
+        "parkingB": 2243,
+        "brakeData": {
+            "secondary": "SPLIT SERVICE BRAKE (DESIGNATED) OR HANDBRAKE",
+            "parking": "AXLE 2",
+            "brakeDataCode": "178202",
+            "service": "2 AXLE F/R SPLIT (AXLE 1/ AXLE 2)"
+        },
+        "axles": [
+            {
+                "axleNumber": 1,
+                "weights": {
+                    "gbWeight": 7500,
+                    "designWeight": 7500,
+                    "ladenWeight": 0,
+                    "kerbWeight": 0
+                },
+                "tyres": {
+                    "tyreCode": 428,
+                    "tyreSize": "315/80-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 150,
+                    "sLoadIndex": 156,
+                    "loadIndex": 156,
+                    "speedCatSymbol": "L"
+                }
+            },
+            {
+                "axleNumber": 2,
+                "weights": {
+                    "gbWeight": 11500,
+                    "designWeight": 12000,
+                    "ladenWeight": 0,
+                    "kerbWeight": 0
+                },
+                "tyres": {
+                    "tyreCode": 428,
+                    "tyreSize": "315/80-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "D",
+                    "dLoadIndex": 150,
+                    "sLoadIndex": 156,
+                    "loadIndex": 150,
+                    "speedCatSymbol": "L"
+                }
+            }
+        ]
+    }
+}
