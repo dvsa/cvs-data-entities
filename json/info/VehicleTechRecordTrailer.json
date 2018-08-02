@@ -1,0 +1,106 @@
+{
+    "timeStamp": "24/03/2017 10:44:22",
+    "techRecord": {
+        "suspensionType": "Air",
+        "absMarker": null,
+        "conversionRefNumber": null,
+        "tyreUseCode": "2B",
+        "dtpNumber": null,
+        "makeMakeCode": "12",
+        "makeManufacturerType": "T",
+        "ntaNumber": "e11*2007/0046*0197",
+        "trailerCouplingType": "Fifth wheel",
+        "bodyType": "Box",
+        "couplingCapacity": null,
+        "loadSensorValveMarker": null,
+        "roadFriendlySuspensionMarker": "Yes",
+        "length": 14020,
+        "width": 2600,
+        "clSpaceAxleSemiDistanceF1": 1310,
+        "clSpaceAxleSemiDistanceF2": 1310,
+        "clSpaceAxleSemiDistanceF3": 0,
+        "clSpaceAxleSemiDistanceF4": 0,
+        "ccToEndTrailerMinLength": 12000,
+        "ccToEndTrailerMaxLength": 12000,
+        "ccToRearAxleMinLength": 0,
+        "ccToRearAxleMaxLength": 0,
+        "outerAxleSpanDrawbar": 0,
+        "grossDesignWeight": 40000,
+        "grossEecWeight": 0,
+        "grossGbWeight": 38000,
+        "statusCode": "Current",
+        "sequenceNumber": 1,
+        "rearAxleToTrailerRearDistance": 2840,
+        "trlbasNtaNumber": "e11*2007/0046*0197",
+        "variantNumber": null,
+        "remarks": null,
+        "axles": [
+            {
+                "axleNumber": 1,
+                "weights": {
+                    "gbWeight": 8000,
+                    "eecWeight": 0,
+                    "designWeight": 9000
+                },
+                "tyres": {
+                    "tyreCode": 384,
+                    "tyreSize": "385/65-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 0,
+                    "sLoadIndex": 160,
+                    "loadIndex": 160
+                },
+                "brakes": {
+                    "brakeActSize": 0,
+                    "brakeOpLevLgth": 0,
+                    "parkingBrakeMrk": "N"
+                }
+            },
+            {
+                "axleNumber": 2,
+                "weights": {
+                    "gbWeight": 8000,
+                    "eecWeight": 0,
+                    "designWeight": 9000
+                },
+                "tyres": {
+                    "tyreCode": 384,
+                    "tyreSize": "385/65-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 0,
+                    "sLoadIndex": 160,
+                    "loadIndex": 160
+                },
+                "brakes": {
+                    "brakeActSize": 0,
+                    "brakeOpLevLgth": 0,
+                    "parkingBrakeMrk": "N"
+                }
+            },
+            {
+                "axleNumber": 3,
+                "weights": {
+                    "gbWeight": 8000,
+                    "eecWeight": 0,
+                    "designWeight": 9000
+                },
+                "tyres": {
+                    "tyreCode": 384,
+                    "tyreSize": "385/65-22.5",
+                    "plyRating": null,
+                    "fitmentCode": "S",
+                    "dLoadIndex": 0,
+                    "sLoadIndex": 160,
+                    "loadIndex": 160
+                },
+                "brakes": {
+                    "brakeActSize": 0,
+                    "brakeOpLevLgth": 0,
+                    "parkingBrakeMrk": "N"
+                }
+            }
+        ]
+    }
+}

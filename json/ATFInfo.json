@@ -1,0 +1,71 @@
+{
+    "premiseCode": "A00000",
+    "premiseName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "premiseEffectiveFrom": "01-01-2018",
+    "premiseEffectiveTo": "01-01-2018",
+    "dvtCostCentreName": "Lorem ipsum dolor",
+    "dvtCostcentreCode": 12345,
+    "dvtAreaCode": 12345,
+    "dvtAreaName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "dvtRegionCode": "ABCDEFGHIJKLMNOPQ",
+    "dvtRegionName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "dvtNation": "Lorem ipsum dolor sit amet",
+    "stnId": "A00000",
+    "stnType": 1,
+    "stnExtBookingMkr": "Y",
+    "stnName": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "stnAddress1": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "stnPostTown": "Lorem ipsum dolor sit amet",
+    "stnPostcode": "ABC1234",
+    "stnTelephone": "01234 123456",
+    "latitude": "53.179480",
+    "longitude": "-1.222664",
+    "contacts": [
+        {
+            "name": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "role": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "email": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "phone": "01234 123456"
+        },
+        {
+            "name": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "role": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "email": "Lorem ipsum dolor sit amet, consectetur adipiscing",
+            "phone": "01234 123456"
+        }
+    ],
+    "supportedTests": [
+        "HGV",
+        "PSV",
+        "Specialist"
+    ],
+    "currentIssues": [
+        {
+            "id": "ABC123",
+            "siteId": "ABC123",
+            "VSAId": "ABCADFSDF",
+            "type": "PIT",
+            "severity": "DANGEROUS",
+            "vsaId": "ABC123",
+            "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing."
+        },
+        {
+            "id": "ABC123",
+            "siteId": "ABC123",
+            "VSAId": "ABCADFSDF",
+            "type": "PIT",
+            "severity": "DANGEROUS",
+            "vsaId": "ABC123",
+            "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing."
+        },
+        {
+            "id": "ABC123",
+            "siteId": "ABC123",
+            "VSAId": "ABCADFSDF",
+            "type": "PIT",
+            "severity": "DANGEROUS",
+            "vsaId": "ABC123",
+            "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing."
+        }
+    ]
+}

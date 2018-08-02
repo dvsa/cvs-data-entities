@@ -1,0 +1,14 @@
+{
+    "testCode": "ABC",
+    "axles": "LRG",
+    "grouping": "HGV",
+    "text": "    Lorem ipsum dolor sit amet, consectetur adipiscing",
+    "category": "Voluntary",
+    "product": {
+        "vehicleType": "1 axle",
+        "dvsaNormalWorkingHours": 112.00,
+        "dvsaOutOfHours": 150.00,
+        "atfNormalWorkingHours": 91.00,
+        "atfOutOfHours": 129.00
+    }
+}

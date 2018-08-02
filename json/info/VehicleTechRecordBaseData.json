@@ -1,0 +1,102 @@
+{
+    "timeStamp": "24/03/2017 10:01:52",
+    "vehicle": {
+        "systemNumber": 434568,
+        "vehicleClass": "V",
+        "vehicleType": "HGV",
+        "chassisType": "Rigid",
+        "vin": "A02761278",
+        "manufactureDate": "01/03/1994",
+        "yearOfManufacture": 1994,
+        "testCertificateExpiryDate": "31/10/2017",
+        "vehicleIdentifier": "B3R9R75",
+        "previousRegmark": "A1A8X62",
+        "lastPresenterName": "PRESENTERNAME985187",
+        "lastPresenterAddress1": "PRESENTERADDR1_747392",
+        "lastPresenterAddress2": "PRESENTERADDR2_147416",
+        "lastPresenterAddress3": null,
+        "lastPresenterAddress4": null,
+        "lastPresenterPosttown": "PRESENTERPOSTTOWN244",
+        "lastPresenterPostcode": "XY99 0ZZ",
+        "lastPresenterPhoneNumber": "98765 1234567",
+        "registrationDate": "09/02/1996",
+        "numberOfAxles": 2,
+        "make": "MAN TRUCK & BUS UK",
+        "model": "10.153",
+        "intelligenceMarker": "N",
+        "intelligenceExpiryDate": null,
+        "abscondedImmobilisationDate": null,
+        "lastUpdatedDate": "03/10/2016"
+    },
+    "operator": [
+        {
+            "specifiedDate": "24/02/2014",
+            "operatorLicenceNumber": "M41615O",
+            "operatorLicenceType": "Restricted",
+            "operatorLicenceCategory": "Goods Vehicle",
+            "operatorLicenceStatus": "Valid",
+            "operatorName": "PIAN",
+            "operatorType": "Partnership",
+            "ocrsNumericBand": "05",
+            "ocrsBand": "Amber"
+        }
+    ],
+    "testHistory": [
+        {
+            "reservationNumber": "018960204780011",
+            "location": "CHECK SITE 28698, STREET_NAME 28698, TOWN 28698, COUNTRY 28698, XY99 0ZZ",
+            "testDate": "14/10/2015",
+            "testType": "ANNUAL MV",
+            "vehicleIdentifierAtTest": "B3R9R75",
+            "operatorLicenceNumberAtTest": null,
+            "testResult": "Pass",
+            "testCertificateExpiryDateAtTest": "31/10/2016",
+            "numberOfDefectsAtTest": 0,
+            "numberofAdvisoryDefectsAtTest": 1
+        },
+        {
+            "reservationNumber": "110150159460011",
+            "location": "CHECK SITE 28698, STREET_NAME 28698, TOWN 28698, COUNTRY 28698, XY99 0ZZ",
+            "testDate": "03/10/2016",
+            "testType": "ANNUAL MV",
+            "vehicleIdentifierAtTest": "B3R9R75",
+            "operatorLicenceNumberAtTest": null,
+            "testResult": "Pass",
+            "testCertificateExpiryDateAtTest": "31/10/2017",
+            "numberOfDefectsAtTest": 0,
+            "numberofAdvisoryDefectsAtTest": 3
+        }
+    ],
+    "encounter": [
+        {
+            "encounterIdentifier": "500003815955",
+            "operatorLicenceNumberAtEncounter": "M41615O",
+            "operatorLicenceNameAtEncounter": null,
+            "encounterType": "Unplanned",
+            "encounterLocation": "CHECK SITE 8253, STREET_NAME 8253, TOWN 8253, COUNTRY 8253, XY99 0ZZ",
+            "prohibitionNotice": "Y",
+            "prohibitionOutstanding": "N",
+            "encounterDate": "28/05/2014",
+            "numberOfDefects": 0,
+            "numberOfOffences": 2,
+            "numberOfMsiDefects": 0,
+            "numberOfMsiOffences": 0,
+            "numberOfCabotageOffences": 0
+        },
+        {
+            "encounterIdentifier": "500003816546",
+            "operatorLicenceNumberAtEncounter": "M41615O",
+            "operatorLicenceNameAtEncounter": null,
+            "encounterType": "Other Situation",
+            "encounterLocation": "CHECK SITE 13331, STREET_NAME 13331, TOWN 13331, COUNTRY 13331, XY990ZZ",
+            "prohibitionNotice": "N",
+            "prohibitionOutstanding": "N",
+            "encounterDate": "28/05/2014",
+            "numberOfDefects": 0,
+            "numberOfOffences": 0,
+            "numberOfMsiDefects": 0,
+            "numberOfMsiOffences": 0,
+            "numberOfCabotageOffences": 0
+        }
+    ]
+}
